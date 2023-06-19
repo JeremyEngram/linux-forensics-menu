@@ -3,37 +3,37 @@
 # Function to handle basic-linux-forensics-menu.sh
 basicLinuxForensicsMenu() {
     echo "You selected basic-linux-forensics-menu.sh"
-    # Add your code for basic-linux-forensics-menu.sh here
+    bash basic-linux-forensics-menu.sh
 }
 
 # Function to handle forensics-full-system-gui-install
 forensicsFullSystemGuiInstall() {
     echo "You selected forensics-full-system-gui-install"
-    # Add your code for forensics-full-system-gui-install here
+    bash forensics-full-system-gui-install
 }
 
 # Function to handle journalctl-menu.sh
 journalctlMenu() {
     echo "You selected journalctl-menu.sh"
-    # Add your code for journalctl-menu.sh here
+    bash journalctl-menu.sh
 }
 
 # Function to handle osint-menu-full.sh
 osintMenuFull() {
     echo "You selected osint-menu-full.sh"
-    # Add your code for osint-menu-full.sh here
+    bash osint-menu-full.sh
 }
 
 # Function to handle spool-sync-remote-image.sh
 spoolSyncRemoteImage() {
     echo "You selected spool-sync-remote-image.sh"
-    # Add your code for spool-sync-remote-image.sh here
+    bash spool-sync-remote-image.sh
 }
 
 # Function to handle systemctl-menu.sh
 systemctlMenu() {
     echo "You selected systemctl-menu.sh"
-    # Add your code for systemctl-menu.sh here
+    bash systemctl-menu.sh
 }
 
 # Display the menu
